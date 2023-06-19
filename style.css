@@ -115,7 +115,8 @@ header {
 .log-in-btn {
   padding: 10px 25px;
   border-radius: 3px;
-  background-color: rgba(223, 22, 52, 0.921);
+  /* background-color: rgba(223, 22, 52, 0.921); */
+  background-color: green;
   color: white;
   border: none;
   font-weight: bolder;
